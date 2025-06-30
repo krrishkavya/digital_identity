@@ -35,7 +35,7 @@ This screen holds the main structure of the website. It contains different optio
 ### Docker Screen
 This screen gives you all the documents uploaded by you, you can upload more documents to it. For managing documents, I have used IPFS as storing big files on the Blockchain is expensive
 
-![ipfs1](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/ipfs1.png)
+
 
 
 ### Voter Screen
